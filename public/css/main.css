@@ -1,0 +1,59 @@
+.jumbotron{
+  width: 100%;
+  height: 100vh;
+  margin-top: -56px;
+}
+
+.judul{
+  position: absolute;
+  top: 175px;
+  color: white;
+  letter-spacing: 6px;
+}
+
+.span-title{
+  position: absolute;
+  top: 275px;
+  color: white;
+  font-size: 50px;
+  line-height: 60px;
+}
+
+.span-text{
+  position: absolute;
+  top: 425px;
+  color: white;
+  font-size: 20px;
+  line-height: 40px;
+}
+
+.btn-jumbotron{
+  position: absolute;
+  top: 575px;
+}
+
+.img-card{
+  height: 215px;
+  width: 215px;
+  object-fit: contain;
+  margin: 0 auto;
+}
+
+.card-title{
+  height: 45px;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+
+.btn-right{
+  margin-left: auto;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.navbar-space{
+  margin-left: 20px;
+  margin-right: 20px;
+}
